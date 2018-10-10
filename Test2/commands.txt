@@ -1,3 +1,23 @@
 Q1 - SETUP
 
-1. 
+1. cd ~/Desktop
+2. git clone https://github.com/hkim233/gitTest2526.git
+3. mv Test2 gitTest2526
+4. cd gitTest2526
+5. git status
+6. git add Test2
+7. git commit -m "added Test2 directory"
+8. git push -u origin master
+
+9. nano repo.txt
+10. git add repo.txt
+11. git commit -m "added repo.txt"
+12. git push -u origin master
+
+13. nano index.html
+14. git add index.html
+15. git commit -m "index.html"
+16. git push -u origin master
+
+17. mkdir ~/Desktop/Q1
+18. cp -r ~/Desktop/gitTest2526/ ~/Desktop/Q1
